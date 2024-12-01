@@ -18,4 +18,4 @@ This repository contains four Jupyter notebooks for streamlined experimentation.
 
 GAE.ipynb, VGAE.ipynb and GAT.ipynb models for a homogeneous graph. Hetero_GAT+VGAT.ipynb models for a heterogeneous graph. 
 
-The detailed report can be found [here](https://drive.google.com/file/d/1KgXpVodD-EN72tI98HEdWolQgnZTki-s/view?usp=sharing). 
+The detailed report can be found [here](https://drive.google.com/file/d/1CrJ_ILZj9T3Wzey4UbYcjc6yM1HP1CHx/view?usp=sharing). 
